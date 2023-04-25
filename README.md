@@ -3,6 +3,7 @@
 </h1>
 <p align="center">I love creating web pages ⚡</p>
 <p align="center">seeking more</p>
+
 <p align="center">
 
 <a href="https://linkedin.com/in/gautham-kv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
