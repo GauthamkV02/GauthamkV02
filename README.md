@@ -1,7 +1,13 @@
-### Hi there 👋
 
-# 💫 About Me:
-I am Gautham, a software development student at Sheridan College, I am dedicated to honing my skills and knowledge in the field of software development.<br>🚀I am passionate about coding and am committed to creating innovative and user-friendly software solutions. <br><br>📚Through my studies, I have gained expertise in programming languages such as Java, Html, and JavaScript, as well as experience in software testing and debugging. <br><br>🔍I am eager to apply my skills in a professional setting and contribute to the development of cutting-edge software.
+<h1 align="center"> Hi 👋🏻, I'm Gautham Kizhakke Veetil</br> 
+</h1>
+<p align="center">I love creating web pages ⚡</p>
+<p align="center">seeking more</p>
+<p align="center">
+
+<a href="https://linkedin.com/in/gautham-kv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/gautham__k_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 
 
 ## 🌐 Socials:
