@@ -16,6 +16,19 @@ I am Gautham, a software development student at Sheridan College, I am dedicated
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/GauthamkV02/GauthamkV02 Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>02/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GauthamkV02&icon=2&color=1)](https://visitcount.itsvg.in)
@@ -23,8 +36,7 @@ I am Gautham, a software development student at Sheridan College, I am dedicated
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-![snake animation](https://github.com/GauthamkV02/GauthamkV02/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
