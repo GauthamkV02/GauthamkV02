@@ -26,8 +26,7 @@ I am Gautham, a software development student at Sheridan College, I am dedicated
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>02/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/GauthamkV02/GauthamkV02/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
