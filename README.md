@@ -24,6 +24,6 @@ I am Gautham, a software development student at Sheridan College, I am dedicated
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-(https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+(https://github.com/GauthamkV02/blob/output/github-contribution-grid-snake2.svg)
 
 
