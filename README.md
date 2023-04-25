@@ -20,9 +20,10 @@ I am Gautham, a software development student at Sheridan College, I am dedicated
 ---
 [![](https://visitcount.itsvg.in/api?id=GauthamkV02&icon=2&color=1)](https://visitcount.itsvg.in)
 
-(https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
+(https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
